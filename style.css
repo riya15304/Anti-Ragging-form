@@ -1,0 +1,363 @@
+h2,
+        h4 {
+            text-align: center;
+        }
+        .z {
+            text-align: center;
+            background-color: rgb(102, 102, 102);
+            width: 1030px;
+            padding: 0px;
+            margin: auto;
+            margin-top: 30px;
+            margin-bottom: 25px;
+            font-size: 27px;
+            color: white;
+            font-weight: 500;
+            font-family: "Raleway", sans-serif;
+        }
+        .L {
+            text-align: center;
+            background-color: rgb(102, 102, 102);
+            width: 1030px;
+            padding: 0px;
+            margin: auto;
+            margin-top: 0px;
+            margin-bottom: 25px;
+            font-size: 25px;
+            color: white;
+            font-weight: 500;
+            font-family: "Raleway", sans-serif;
+        }
+        .s {
+            background-color: rgb(252, 251, 251);
+            width: 1000px;
+            border: 2px solid rgb(239, 245, 239);
+            padding: 50px;
+            margin: auto;
+            box-shadow: 0 0 10px 0 rgb(80, 75, 75);
+        }
+        .select {
+            text-align: center;
+            color: red;
+            font-size: large;
+            font-weight: 100;
+        }
+        .warning {
+            color: red;
+            text-align: center;
+        }
+        .con {
+            background-color: rgb(222, 236, 247);
+            width: 1000px;
+            border: 2px solid rgb(239, 245, 239);
+            padding: 10px;
+            margin: auto;
+            margin-bottom: 20px;
+            font-size: large;
+        }
+        button {
+            margin: auto;
+            background-color: lightcoral;
+            display: flex;
+            display: grid;
+            font-size: medium;
+            font-weight: 300;
+            padding: 5px;
+        }
+        .check {
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .t {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .k {
+            display: flex;
+            width: calc(100% / 3 -15px);
+            flex-direction: column;
+        }
+        .f {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .g {
+            display: flex;
+            width: calc(100% / 3 -15px);
+            flex-direction: column;
+        }
+        .p {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .b {
+            display: flex;
+            width: calc(100% / 3 -15px);
+            flex-direction: column;
+        }
+        .o {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .q {
+            display: flex;
+            width: calc(100% / 3 -15px);
+            flex-direction: column;
+        }
+        .u {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .n {
+            display: flex;
+            width: calc(100% / 3 -15px);
+            flex-direction: column;
+        }
+        .v {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .m {
+            display: flex;
+            width: calc(100% / 3 -15px);
+            flex-direction: column;
+        }
+        .ri {
+            color: red;
+            align-items: center;
+            text-align: center;
+        }
+        .e {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .d {
+            display: flex;
+            width: calc(100% / 3 -15px);
+            flex-direction: column;
+        }
+        .y {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .j {
+            display: flex;
+            width: calc(100% / 3 -15px);
+            flex-direction: column;
+        }
+        .a {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .w {
+            display: flex;
+            width: calc(100% / 3 -15px);
+            flex-direction: column;
+        }
+        .stu {
+            color: red;
+        }
+        .x {
+            text-align: center;
+        }
+        .k input {
+            padding: 10px 15px;
+            box-shadow: none;
+            font-size: 14px;
+            border-radius: 4px;
+            display: block;
+            width: 100%;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #212529;
+            background-color: #fff;
+            background-clip: padding-box;
+            border: 1px solid #ced4da;
+            margin: 0;
+            font-family: inherit;
+        }
+        .g input {
+            padding: 10px 15px;
+            box-shadow: none;
+            font-size: 14px;
+            border-radius: 4px;
+            display: block;
+            width: 100%;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #212529;
+            background-color: #fff;
+            background-clip: padding-box;
+            border: 1px solid #ced4da;
+            margin: 0;
+            font-family: inherit;
+        }
+        .b input {
+            padding: 10px 15px;
+            box-shadow: none;
+            font-size: 14px;
+            border-radius: 4px;
+            display: block;
+            width: 100%;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #212529;
+            background-color: #fff;
+            background-clip: padding-box;
+            border: 1px solid #ced4da;
+            margin: 0;
+            font-family: inherit;
+        }
+        .q input {
+            padding: 10px 15px;
+            box-shadow: none;
+            font-size: 14px;
+            border-radius: 4px;
+            display: block;
+            width: 100%;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #212529;
+            background-color: #fff;
+            background-clip: padding-box;
+            border: 1px solid #ced4da;
+            margin: 0;
+            font-family: inherit;
+        }
+        .g select {
+            padding: 10px 15px;
+            box-shadow: none;
+            font-size: 14px;
+            border-radius: 4px;
+            display: block;
+            width: 100%;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #212529;
+            background-color: #fff;
+            background-clip: padding-box;
+            border: 1px solid #ced4da;
+            margin: 0;
+            font-family: inherit;
+        }
+        .w select {
+            padding: 10px 15px;
+            box-shadow: none;
+            font-size: 14px;
+            border-radius: 4px;
+            display: block;
+            width: 100%;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #212529;
+            background-color: #fff;
+            background-clip: padding-box;
+            border: 1px solid #ced4da;
+            margin: 0;
+            font-family: inherit;
+        }
+        .j select {
+            padding: 10px 15px;
+            box-shadow: none;
+            font-size: 14px;
+            border-radius: 4px;
+            display: block;
+            width: 100%;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #212529;
+            background-color: #fff;
+            background-clip: padding-box;
+            border: 1px solid #ced4da;
+            margin: 0;
+            font-family: inherit;
+        }
+        .m input {
+            padding: 10px 15px;
+            box-shadow: none;
+            font-size: 14px;
+            border-radius: 4px;
+            display: block;
+            width: 100%;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #212529;
+            background-color: #fff;
+            background-clip: padding-box;
+            border: 1px solid #ced4da;
+            margin: 0;
+            font-family: inherit;
+        }
+        .n input {
+            padding: 10px 15px;
+            box-shadow: none;
+            font-size: 14px;
+            border-radius: 4px;
+            display: block;
+            width: 100%;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #212529;
+            background-color: #fff;
+            background-clip: padding-box;
+            border: 1px solid #ced4da;
+            margin: 0;
+            font-family: inherit;
+        }
+        .d input {
+            padding: 10px 15px;
+            box-shadow: none;
+            font-size: 14px;
+            border-radius: 4px;
+            display: block;
+            width: 100%;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #212529;
+            background-color: #fff;
+            background-clip: padding-box;
+            border: 1px solid #ced4da;
+            margin: 0;
+            font-family: inherit;
+        }
+        .j input {
+            padding: 10px 15px;
+            box-shadow: none;
+            font-size: 14px;
+            border-radius: 4px;
+            display: block;
+            width: 100%;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #212529;
+            background-color: #fff;
+            background-clip: padding-box;
+            border: 1px solid #ced4da;
+            margin: 0;
+            font-family: inherit;
+        }
+        .w input {
+            padding: 10px 15px;
+            box-shadow: none;
+            font-size: 14px;
+            border-radius: 4px;
+            display: block;
+            width: 100%;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #212529;
+            background-color: #fff;
+            background-clip: padding-box;
+            border: 1px solid #ced4da;
+            margin: 0;
+            font-family: inherit;
+        }
